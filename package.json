@@ -1,0 +1,23 @@
+{
+  "name": "tld",
+  "version": "1.0.0",
+  "description": "data test for LEGO BS",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Jogel"
+  },
+  "keywords": [
+    "BS",
+    "Service"
+  ],
+  "author": "jDo",
+  "license": "MIT",
+  "dependencies": {
+    "csv-loader": "^3.0.2",
+    "papaparse": "^4.6.3"
+  }
+}
